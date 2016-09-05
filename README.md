@@ -7,7 +7,7 @@ neurodevelopmental disorder that typically manifests at an
 early age. Affecting approximately 1.5% of the population,
 it is characterised by persisting deficits in social and reciprocal communication and interactions, alongside restricted and repetitive interests, activities and behaviours. It is estimated that ASD costs between $1.5 to $2.2 million per lifetime for developed countries.
 
-Consequently, the research interest in ASD has increased dramatically. For example, there has been a five-fold growth in the number of related publications over the past decade. This massive amount of data provide us with new opportunities for knowledge discovery and data mining using computational approaches.
+Consequently, the research interest in ASD has increased dramatically. For example, there has been a five-fold growth in the number of related publications over the past decade. This massive amount of data provides us with new opportunities for knowledge discovery and data mining using computational approaches.
 
 The present dataset consists of abstracts of all ASD-related papers retrieved from [Scopus](https://www.scopus.com/). A publication is assumed to be related if the term "Autism" is present in its title, abstract, or indexed keywords. The dataset comprises of 46,218 publications spanning from 1977 to 2015. 
 
