@@ -1,4 +1,4 @@
-# ASD_Abs_Dataset
+# ASD Dataset
 
 ## Autism Spectrum Disorder Abstracts Dataset
 
@@ -55,3 +55,6 @@ Please cite the following if you have used this dataset in your research.
     year={2015},
     organization={Springer}
     }
+
+
+**Consult [Guide.md](Guide.md) to learn how to use this dataset.**
